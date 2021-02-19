@@ -8,7 +8,20 @@
 
 ## Функциональные требования
 
-# Регламенты кодирования
+# Технологии
+
+## Стек
+
+### Backend
+
+- [Golang](https://golang.org/)
+- [Echo framework](https://github.com/labstack/echo)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/)
+
+### Mobile
+
+## Регламенты кодирования
 
 [Backend](backend/rules.md)
 
