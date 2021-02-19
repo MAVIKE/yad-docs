@@ -10,7 +10,7 @@
 
 # Регламенты кодирования
 
-[Backend](https://github.com/MAVIKE/yad-docs/backend/rules.md)
+[Backend](backend/rules.md)
 
 [Mobile](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
