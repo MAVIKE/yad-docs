@@ -30,6 +30,10 @@ Cервис осуществляет прием заказов на достав
 - [Docker](https://www.docker.com/)
 
 ### Mobile
+ - [Java](https://www.java.com/ru/)
+ - [JUnit](https://junit.org/junit4/javadoc/4.12/overview-summary.html)
+ - [Gradle](https://gradle.org/)
+ - [SQLite](https://www.sqlite.org/index.html)
 
 ## Регламенты кодирования
 
