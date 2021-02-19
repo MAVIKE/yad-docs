@@ -33,6 +33,10 @@
 
 <img src="docs/git-flow.png" alt="git-flow" width="1000"/>
 
+## Правила версионирования
+
+[Semantic Versioning 2.0](https://semver.org/)
+
 # Участники команды
 
 ## Backend
