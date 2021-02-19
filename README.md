@@ -31,6 +31,8 @@ Cервис осуществляет прием заказов на достав
 
 ### Mobile
 
+- [Java](https://www.java.com/)
+
 ## Регламенты кодирования
 
 [Backend](backend/rules.md)
@@ -109,34 +111,49 @@ dimez77@mail.ru
 <tr>
 <td>
 
-<img src="docs/ryazanov.png" 
-     alt="Maxim Ryazanov"
-     width="200"
-/>
-
-<div style="text-align: center">
-
-**Максим Рязанов**
-
-ryazanovms@yandex.ru
-
-</div>
+<img src="docs/ryazanov.png" alt="Ryazanov Maxim" width="200"/>
 
 </td>
 <td>
 
-<img src="docs/stepanenko.jpg" 
-     alt="Vladimir Stepanenko"
-     width="200"
-/>
+<img src="docs/stepanenko.jpg" alt="Stepanenko Vladimir" width="200"/>
 
-<div style="text-align: center">
+</td>
+<td>
 
-**Владимир Степаненко**
+<img src="docs/polyakova.jpg" alt="Polyakova Kseniya" width="200"/>
 
+</td>
+<td>
+
+<img src="docs/gopher.jpg" alt="Levushkin Ilya" width="200"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**Рязанов Максим**
+ryazanovms@yandex.ru
+
+</td>
+<td>
+
+**Степаненко Владимир**
 vovac12@gmail.com
 
-</div>
+</td>
+<td>
+
+**Полякова Ксения**
+KsenyaPolyakovaaa@gmail.com
+
+</td>
+<td>
+
+**Левушкин Илья**
+levushkinik@student.bmstu.ru
 
 </td>
 </tr>
