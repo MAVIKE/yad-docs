@@ -101,10 +101,7 @@ dimez77@mail.ru
 
 <img src="docs/ryazanov.png" 
      alt="Maxim Ryazanov"
-     style="object-fit: cover; 
-            border-radius: 50%;
-            height: 200px; 
-            width: 200px;"
+     width="200"
 />
 
 <div style="text-align: center">
@@ -120,10 +117,7 @@ ryazanovms@yandex.ru
 
 <img src="docs/stepanenko.jpg" 
      alt="Vladimir Stepanenko"
-     style="object-fit: cover; 
-            border-radius: 50%;
-            height: 200px; 
-            width: 200px;"
+     width="200"
 />
 
 <div style="text-align: center">
