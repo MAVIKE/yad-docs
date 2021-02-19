@@ -20,6 +20,12 @@ Cервис осуществляет прием заказов на достав
 
 # Технологии
 
+## Репозитории
+
+:computer: [Backend](https://github.com/MAVIKE/yad-backend)
+
+:iphone: [Mobile](https://github.com/MAVIKE/yad-android)
+
 ## Стек
 
 ### Backend
