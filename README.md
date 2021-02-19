@@ -28,13 +28,32 @@
 
 <img src="docs/vasyukov.jpg" alt="Vasyukov Alexey" width="200"/>
 
+</td>
+<td>
+
+<img src="docs/volkov.jpg" alt="Volkov Egor" width="200"/>
+
+</td>
+<td>
+
+<img src="docs/kolesnikov.jpg" alt="Kolesnikov Daniil" width="200"/>
+
+</td>
+<td>
+
+<img src="docs/moskovskiy.jpg" alt="Moskovskiy Dmitriy" width="200"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
 **Васюков Алексей**
 a.vasyukov1@yandex.ru
 
 </td>
 <td>
-
-<img src="docs/volkov.jpg" alt="Volkov Egor" width="200"/>
 
 **Волков Егор**
 volkovegor2000@yandex.ru
@@ -42,15 +61,11 @@ volkovegor2000@yandex.ru
 </td>
 <td>
 
-<img src="docs/kolesnikov.jpg" alt="Kolesnikov Daniil" width="200"/>
-
 **Колесников Даниил**
 daniil.kolesnikoff@gmail.com
 
 </td>
 <td>
-
-<img src="docs/moskovskiy.jpg" alt="Moskovskiy Dmitriy" width="200"/>
 
 **Московский Дмитрий**
 dimez77@mail.ru
