@@ -35,8 +35,6 @@ Cервис осуществляет прием заказов на достав
  - [Gradle](https://gradle.org/)
  - [SQLite](https://www.sqlite.org/index.html)
 
-- [Java](https://www.java.com/)
-
 ## Регламенты кодирования
 
 [Backend](backend/rules.md)
@@ -157,7 +155,7 @@ KsenyaPolyakovaaa@gmail.com
 <td>
 
 **Левушкин Илья**
-levushkinik@student.bmstu.ru
+levushkinik@yandex.ru
 
 </td>
 </tr>
