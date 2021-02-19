@@ -60,3 +60,48 @@ dimez77@mail.ru
 </td>
 </tr>
 </table>
+
+## Android application
+
+<table>
+<tr>
+<td>
+
+<img src="docs/ryazanov.png" 
+     alt="Maxim Ryazanov"
+     style="object-fit: cover; 
+            border-radius: 50%;
+            height: 200px; 
+            width: 200px;"
+/>
+
+<div style="text-align: center">
+
+**Максим Рязанов**
+
+ryazanovms@yandex.ru
+
+</div>
+
+</td>
+<td>
+
+<img src="docs/stepanenko.jpg" 
+     alt="Vladimir Stepanenko"
+     style="object-fit: cover; 
+            border-radius: 50%;
+            height: 200px; 
+            width: 200px;"
+/>
+
+<div style="text-align: center">
+
+**Владимир Степаненко**
+
+vovac12@gmail.com
+
+</div>
+
+</td>
+</tr>
+</table>
