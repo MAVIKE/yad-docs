@@ -1,15 +1,14 @@
-# Регламенты кодирования
+# Регламенты кодирования Backend
 
 ## Линтеры
 
 [golangci-lint](https://github.com/golangci/golangci-lint)
 
-## Правила именования переменных
+## Рекомендации по написанию кода
 
+[Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 
-## Правила кодирования
-
-**Структура проекта**
+## Структура проекта
 
 В соответствии со [стандартным разбинием для проектов на Go](https://github.com/golang-standards/project-layout)
 
