@@ -145,7 +145,7 @@ dimez77@mail.ru
 </td>
 <td>
 
-<img src="docs/gopher.jpg" alt="Levushkin Ilya" width="200"/>
+<img src="docs/levushkin.jpg" alt="Levushkin Ilya" width="200"/>
 
 </td>
 </tr>
@@ -172,7 +172,7 @@ KsenyaPolyakovaaa@gmail.com
 <td>
 
 **Левушкин Илья**
-levushkinik@yandex.ru
+lik17u699@student.bmstu.ru
 
 </td>
 </tr>
