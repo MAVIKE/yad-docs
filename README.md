@@ -119,11 +119,26 @@ Cервис осуществляет прием заказов на достав
 - [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 
-### Mobile
+### Android
  - [Java](https://www.java.com/ru/)
  - [JUnit](https://junit.org/junit4/javadoc/4.12/overview-summary.html)
  - [Gradle](https://gradle.org/)
  - [SQLite](https://www.sqlite.org/index.html)
+
+
+## Ограничения по клиентскому оборудованию и ОС
+
+### Backend
+
+### Android
+
+ - [Android 8.0 Oreo](https://en.wikipedia.org/wiki/Android_Oreo) (API 26) и выше
+ - 4+ ГБ RAM
+ - Разрешения
+   - Интернет
+   - Геоданные
+
+### iOS
 
 ## Регламенты кодирования
 
