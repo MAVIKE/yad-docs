@@ -125,6 +125,13 @@ Cервис осуществляет прием заказов на достав
  - [Gradle](https://gradle.org/)
  - [SQLite](https://www.sqlite.org/index.html)
 
+### iOS
+ - [Swift 5.0](https://www.apple.com/ru/swift/)
+ - [Auto Layout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
+ - [Core Data](https://developer.apple.com/documentation/coredata)
+ - [Clean Swift](https://clean-swift.com)
+ - [Alamofire](https://github.com/Alamofire/Alamofire)
+
 
 ## Ограничения по клиентскому оборудованию и ОС
 
@@ -139,6 +146,11 @@ Cервис осуществляет прием заказов на достав
    - Геоданные
 
 ### iOS
+ - [iOS 13.0](https://www.apple.com/ru/newsroom/2019/06/apple-previews-ios-13/) и выше
+ - iPhone 6S и более новые модели
+ - Разрешения
+   - Интернет
+   - Геоданные
 
 ## Регламенты кодирования
 
@@ -265,3 +277,45 @@ lik17u699@student.bmstu.ru
 </td>
 </tr>
 </table>
+
+## iOS application
+
+<table>
+<tr>
+<td>
+
+<img src="docs/imanov.png" alt="Imanov Shamil" width="200"/>
+
+</td>
+<td>
+
+<img src="docs/timonina.png" alt="Timonin Anton" width="200"/>
+
+</td>
+<td>
+
+<img src="docs/timonine.png" alt="Timonin Egor" width="200"/>
+
+<tr>
+<td>
+
+**Иманов Шамиль**
+
+studinfobmstu@yandex.ru
+
+</td>
+<td>
+
+**Тимонин Антон**
+
+antonandegor@mail.ru
+
+</td>
+<td>
+
+**Тимонин Егор**
+
+egor3359@bk.ru
+
+</table>
+
