@@ -108,7 +108,9 @@ Cервис осуществляет прием заказов на достав
 
 :computer: [Backend](https://github.com/MAVIKE/yad-backend)
 
-:iphone: [Mobile](https://github.com/MAVIKE/yad-android)
+:iphone: [Android](https://github.com/MAVIKE/yad-android)
+
+:phone: [iOS](https://github.com/MAVIKE/yad-ios)
 
 ## Стек
 
