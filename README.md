@@ -130,6 +130,7 @@ Cервис осуществляет прием заказов на достав
  - [Auto Layout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
  - [Core Data](https://developer.apple.com/documentation/coredata)
  - [Clean Swift](https://clean-swift.com)
+ - [GCD](https://developer.apple.com/documentation/dispatch)
  - [Alamofire](https://github.com/Alamofire/Alamofire)
 
 
