@@ -161,6 +161,8 @@ Cервис осуществляет прием заказов на достав
 
 [Mobile](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
+[iOS](https://github.com/raywenderlich/swift-style-guide/blob/master/README.markdown)
+
 ## Правила ветвления
 
 [Шпаргалка по git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
