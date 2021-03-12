@@ -105,7 +105,7 @@ Cервис осуществляет прием заказов на достав
 
 ### Диаграмма последовательности для выполнения доставки заказа
 
-<img src="docs/sequence-diagram.png" alt="sequence-diagram" width="600"/>
+<img src="docs/sequence-diagram.png" alt="sequence-diagram" width="800"/>
 
 # Технологии
 
