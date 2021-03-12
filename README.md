@@ -159,7 +159,7 @@ Cервис осуществляет прием заказов на достав
 
 [Backend](backend/rules.md)
 
-[Mobile](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
+[Android](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
 [iOS](https://github.com/raywenderlich/swift-style-guide/blob/master/README.markdown)
 
