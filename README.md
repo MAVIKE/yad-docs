@@ -140,7 +140,7 @@ Cервис осуществляет прием заказов на достав
 
 ### Backend
 
- - [Linux Ubuntu 20.04 LTS](https://ubuntu.com/), [Windows 10 Home](https://ru.wikipedia.org/wiki/Windows_10)
+ - [Linux Ubuntu 20.04 LTS](https://ubuntu.com/)
  - 4+ ГБ RAM
 
 ### Android
